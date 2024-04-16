@@ -1,4 +1,4 @@
-### Olá, eu sou TrianguloEXIT  👋
+### Hi, i am TrianguloEXIT  👋
 
 [![Blog](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itch.io/)
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
