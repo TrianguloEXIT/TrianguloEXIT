@@ -3,7 +3,10 @@
 [![Blog](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itch.io/)
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/victor-dotele-703b1b260/)
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )]()
+
 
 ![TrianguloEXIT GitHub stats](https://github-readme-stats.vercel.app/api?username=TrianguloEXIT&show_icons=true&theme=radical)
 ## Tecnologias que eu uso
