@@ -7,7 +7,7 @@
 )](https://www.instagram.com/triangulo_exit/)
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TrianguloEXIT)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](victordotele5353@gmail.com)
+)](mailto:victordotele5353@gmail.com)
 
 
 ![TrianguloEXIT GitHub stats](https://github-readme-stats.vercel.app/api?username=TrianguloEXIT&show_icons=true&theme=radical)
